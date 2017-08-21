@@ -12,7 +12,7 @@
 | Display                 | 720 x 1280 px, 5.0 inches (294 PPI)        | 720 x 1280 px, 5.0 inches (294 PPI)        | 720 x 1280 px, 5.0 inches (294 PPI)         |
 | Rear Camera             | 13.0 MPx, f/2.0, PDAF autofocus, LED flash | 13.0 MPx, f/2.0, PDAF autofocus, LED flash | 13.0 MPx, f/2.0, PDAF autofocus, LED flash  |
 | Front Camera            | 5.0 MPx, f/2.2                             | 5.0 MPx, f/2.2                             | 5.0 MPx, f/2.2                              |
-|
-| Release Date            |
+|                         |                                            |                                            |                                             |
+| Release Date            |                                            |                                            |                                             |
 |:------------------------|:-------------------------------------------|:-------------------------------------------|:--------------------------------------------|
 |                         | June 2016                                  | August 2016                                | July 2016                                   |
