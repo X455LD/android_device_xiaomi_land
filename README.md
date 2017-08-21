@@ -1,22 +1,31 @@
-TeamWin Recovery Project
+TWRP device configuration for Xiaomi Redmi 3S/Prime/3X
+======================================================
 
-Device configuration for Xiaomi Redmi 3S/Prime/3X (_land_)
-=====================================================
+The Xiaomi Redmi 3S/Prime/3X (codenamed _"land"_) is a mid-end smartphone from Xiaomi.
 
-Basic   | Spec Sheet
--------:|:-------------------------
-CPU     | Octa-core 1.4 GHz Cortex-A53
-CHIPSET | Qualcomm MSM8937 Snapdragon 430
-GPU     | Adreno 505
-Memory  | 2 GB/3 GB
-Shipped Android Version | Android 6.0.1 with MIUI 8
-Storage | 16 GB/32 GB
-MicroSD | Up to 256 GB (Hybrid)
-Battery | 4100 mAh (non-removable)
-Dimensions | 139.3 x 69.6 x 8.5 mm
-Display | 720 x 1280 pixels, 5.0" IPS
-Rear Camera  | 13.0 MP, LED flash
-Front Camera | 5.0 MP
-Release Date | August 2016
+It was launched in three flavors.
+
+## Device specifications
+
+| Feature                 | Redmi 3S                                   | Redmi 3S Prime                             | Redmi 3X                                    |
+|------------------------:|:------------------------------------------:|:------------------------------------------:|:--------------------------------------------|
+| Chipset                 | Qualcomm MSM8937 Snapdragon 430            | Qualcomm MSM8937 Snapdragon 430            | Qualcomm MSM8937 Snapdragon 430             |
+| CPU                     | Octa-core 1.4 GHz Cortex-A53               | Octa-core 1.4 GHz Cortex-A53               | Octa-core 1.4 GHz Cortex-A53                |
+| GPU                     | 450 MHz Adreno 505                         | 450 MHz Adreno 505                         | 450 MHz Adreno 505                          |
+| Memory                  | 2 GB RAM (LPDDR3 800 MHz)                  | 2 GB (LPDDR3 800 MHz)                      | 3 GB (LPDDR3 800 MHz)                       |
+| Shipped Android Version | 6.0 with MIUI 8                            | 6.0 with MIUI 8                            | 6.0 with MIUI 7.3                           |
+| Storage                 | 16 GB                                      | 32 GB                                      | 32 GB                                       |
+| MicroSD                 | Up to 256 GB (Hybrid)                      | Up to 256 GB (Hybrid)                      | Up to 256 GB (Hybrid)                       |
+| Battery                 | Non-removable Li-Po 4100 mAh               | Non-removable Li-Po 4100 mAh               | Non-removable Li-Po 4100 mAh                |
+| Dimensions              | 139.3 x 69.6 x 8.5 mm                      | 139.3 x 69.6 x 8.5 mm                      | 139.3 x 69.6 x 8.5 mm                       |
+| Display                 | 720 x 1280 px, 5.0 inches (294 PPI)        | 720 x 1280 px, 5.0 inches (294 PPI)        | 720 x 1280 px, 5.0 inches (294 PPI)         |
+| Rear Camera             | 13.0 MPx, f/2.0, PDAF autofocus, LED flash | 13.0 MPx, f/2.0, PDAF autofocus, LED flash | 13.0 MPx, f/2.0, PDAF autofocus, LED flash  |
+| Front Camera            | 5.0 MPx, f/2.2                             | 5.0 MPx, f/2.2                             | 5.0 MPx, f/2.2                              |
+|                         |
+| Release Date            |
+|------------------------:|:------------------------------------------:|:------------------------------------------:|:--------------------------------------------|
+|                         | June 2016                                  | August 2016                                | July 2016                                   |
+
+## Device picture
 
 ![Xiaomi Redmi 3S/Prime/3X](http://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-3-pro-2.jpg "Xiaomi Redmi 3S/Prime/3X")
