@@ -1,5 +1,5 @@
 Feature                 | Redmi 3S                                   | Redmi 3S Prime                             | Redmi 3X                                    |
------------------------:|:------------------------------------------:|:------------------------------------------:|:--------------------------------------------|
+------------------------|:-------------------------------------------|:-------------------------------------------|:--------------------------------------------|
 Chipset                 | Qualcomm MSM8937 Snapdragon 430            | Qualcomm MSM8937 Snapdragon 430            | Qualcomm MSM8937 Snapdragon 430             |
 CPU                     | Octa-core 1.4 GHz Cortex-A53               | Octa-core 1.4 GHz Cortex-A53               | Octa-core 1.4 GHz Cortex-A53                |
 GPU                     | 450 MHz Adreno 505                         | 450 MHz Adreno 505                         | 450 MHz Adreno 505                          |
